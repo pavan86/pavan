@@ -13,5 +13,5 @@ $error = curl_error($ch);
 $file = fopen($dir, "w");
 fputs($file, $data);
 curl_close ($ch);
- 
+echo"xxxxxxxxxxxx" ;
 ?>
