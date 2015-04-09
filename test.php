@@ -14,4 +14,11 @@ $file = fopen($dir, "w");
 fputs($file, $data);
 curl_close ($ch);
 echo"xxxxxxxxxxxx" ;
+echo "cccccccccccc";
+ech
+
+echo "cccccccccccc";
+echo "cccccccccccc";
+echo "cccccccccccc";
+echo "cccccccccccc";
 ?>
