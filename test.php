@@ -13,10 +13,10 @@ $error = curl_error($ch);
 $file = fopen($dir, "w");
 fputs($file, $data);
 curl_close ($ch);
-echo"xxxxxxxxxxxx" ;
-echo "cccccccccccc";
-echo "cccccccccccc";
-echo "cccccccccccc";
-echo "cccccccccccc";
-echo "cccccccccccc";
+#echo"xxxxxxxxxxxx" ;
+#echo "cccccccccccc";
+#echo "cccccccccccc";
+#echo "cccccccccccc";
+#echo "cccccccccccc";
+#echo "cccccccccccc";
 ?>
